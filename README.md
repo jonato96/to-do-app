@@ -22,7 +22,7 @@ Use the following steps to run this Portfolio locally:
 
 - get in the directory you want this folder to appear
 
-- put: git clone `git@github.com:rjonato96/to-do-app.git`
+- put: git clone `git@github.com:jonato96/to-do-app.git`
 
 - open the folder with a code editor (VS Code preferred)
 
